@@ -3,14 +3,10 @@
 One from each of the following:
 
 ### Economics
-* ECON 200
-* ECON 210
-* ECON 212
-* ECON 312
+* ECON 200, 210, 212, 312
 
 ### Accounting and Finance
-* ACCT 200
-* ACCT 201
+* ACCT 200, 201
 
 ### Mathematical Statistics
 * STAT 463/883
