@@ -1,13 +1,23 @@
-# UNL SOA VEE Course Listing
+# UNL [SOA VEE](https://www.soa.org/education/exam-req/edu-vee/) Course Listing
 
-## [Economics](https://store.soa.org/ExamRegistration/VEECourseListing.aspx?sc=2803&sd=University%20of%20Nebraska%20-%20Lincoln&VEE=3162&WebControlMode=Y)
+## Economics
+* ECON 200
+* ECON 210
+* ECON 212
+* ECON 312
 
-## [Accounting and Finance](https://store.soa.org/ExamRegistration/VEECourseListing.aspx?sc=2803&sd=University%20of%20Nebraska%20-%20Lincoln&VEE=13468&WebControlMode=Y)
+## Accounting and Finance
+* ACCT 200
+* ACCT 201
 
-## [Mathematical Statistics](https://store.soa.org/ExamRegistration/VEECourseListing.aspx?sc=2803&sd=University%20of%20Nebraska%20-%20Lincoln&VEE=3162&WebControlMode=Y)
-* STAT 463
-* STAT 883
+## Mathematical Statistics
+* STAT 463/883
 
-## [Corporate Finance](https://store.soa.org/ExamRegistration/VEECourseListing.aspx?sc=2803&sd=University%20of%20Nebraska%20-%20Lincoln&VEE=3163&WebControlMode=Y)
+## Corporate Finance
+* FINA 461/861
 
-## [Applied Statistics](https://store.soa.org/ExamRegistration/VEECourseListing.aspx?sc=2803&sd=University%20of%20Nebraska%20-%20Lincoln&VEE=3164&WebControlMode=Y)
+## Applied Statistics
+* ACTS 430/830
+* STAT 450
+
+* One from the following
