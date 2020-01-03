@@ -17,3 +17,14 @@ One from each of the following:
 ### Applied Statistics
 * ACTS 430/830
 * STAT 450
+
+## Mail transcripts to:75
+
+```
+VEE Administration Committee
+Society of Actuaries
+475 North Martingale Road, Suite 600
+Schaumburg, IL 60173
+```
+
+$75.00 processing fee
