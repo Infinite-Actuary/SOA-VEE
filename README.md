@@ -18,7 +18,7 @@ One from each of the following:
 * ACTS 430/830
 * STAT 450
 
-## Mail transcripts to:75
+## Mail transcripts to:
 
 ```
 VEE Administration Committee
